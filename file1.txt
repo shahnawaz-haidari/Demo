@@ -1,2 +1,0 @@
-Hello "from file1"
-This is another entry in file 1
