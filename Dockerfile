@@ -1,4 +1,3 @@
-FROM nginx
-COPY . .
-RUN Website.html
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
 EXPOSE 8000
